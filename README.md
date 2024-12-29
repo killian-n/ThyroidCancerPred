@@ -1,0 +1,2 @@
+This repository contains a short analysis project that goes through the analysis steps taken to build a prediction model for the reoccurrence of thyroid cancer. It contains: missing value analysis, feature distribution analysis, correlation analysis, feature selection, data transformation, model selection, model comparison with cross validation and model comparison. The data is not my own, it was sourced from this kaggle dataset page:
+https://www.kaggle.com/datasets/joebeachcapital/differentiated-thyroid-cancer-recurrence
